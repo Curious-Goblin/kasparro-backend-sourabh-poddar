@@ -1,4 +1,0 @@
-
-```cron
-# Run ETL every hour
-0 * * * * cd /path/to/kasparro-backend-sourabh-poddar && ./scripts/run-etl.sh >> etl.log 2>&1
